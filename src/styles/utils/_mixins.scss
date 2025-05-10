@@ -27,7 +27,7 @@
 }
 
 @mixin r1600 {
-  @media (max-width: 2649px) {
+  @media (max-width: 2559px) {
     @content;
   }
 }
